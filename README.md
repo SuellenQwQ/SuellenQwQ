@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F7B93E&center=true&vCenter=true&random=false&width=680&lines=Hi%20there%20%F0%9F%91%8B%20I%27m%20Suellen%3BNCUK%20%E9%A2%84 alt="typing" />
+# Hi, I'm Suellen 👋
+
+**NCUK 在读**
 
 </div>
 
