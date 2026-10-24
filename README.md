@@ -37,14 +37,6 @@
 <img width="70%" src="https://streak-stats.demolab.com?user=SuellenQwQ&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="streak" />
 </div>
 
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuellenQwQ&theme=react-dark&hide_border=true" alt="activity" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SuellenQwQ&theme=tokyonight&no-frame=true&column=4&margin-w=6" alt="trophy" />
-</div>
-
 ### 📌 里程碑
 
 - 🔍 在 **22 个开源仓库**里找到过真实 bug —— 1 个 PR + 21 个 issue，每个都带最小复现与修复建议
