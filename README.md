@@ -13,16 +13,14 @@
 
 ```bash
 $ whoami
-Suellen — foundation-year student on my way to UNSW (Australia),
-building real engineering skills the uncomfortable way:
-reading production code every single day until I understand it —
-and filing issues maintainers actually merge.
+Suellen — NCUK foundation student, heading to UNSW (Australia).
+I read open-source code every day and file issues for the bugs I find.
 ```
 
-- 🔭 I'm currently working on **[bug-hunting-kit](https://github.com/SuellenQwQ/bug-hunting-kit)** — a CLI toolkit + methodology distilled from 22 real bug hunts
+- 🔭 I'm currently working on **[bug-hunting-kit](https://github.com/SuellenQwQ/bug-hunting-kit)** — a CLI toolkit and the bug patterns I've collected from 22 real hunts
 - 🌱 I'm currently learning **Python internals, testing patterns, and how large OSS projects are maintained**
-- 💬 Ask me about **filing high-signal bug reports, the NoneBot/QQ-bot ecosystem, or Galgame**
-- 📫 How to reach me: open an issue — I respond faster to those than to anything else
+- 💬 Ask me about **writing useful bug reports, the NoneBot/QQ-bot ecosystem, or Galgame**
+- 📫 How to reach me: open an issue on one of my repos
 - ⚡ Fun fact: **22 real bugs found across 22 open-source repos**, each with a minimal repro and a one-line fix
 
 ## 🧰 Tech Stack
@@ -65,13 +63,13 @@ and filing issues maintainers actually merge.
 
 | | Repo | What it is |
 |---|---|---|
-| 🐛 | [bug-hunting-kit](https://github.com/SuellenQwQ/bug-hunting-kit) | CLI issue filer (stdlib-only) + 11 battle-tested bug patterns from my daily OSS bug hunt |
-| 🎲 | [galgame-picker](https://github.com/SuellenQwQ/galgame-picker) | Tiny CLI that settles the hardest engineering question: which galgame to read next |
-| 🌐 | [SuellenQwQ.github.io](https://suellenqwq.github.io) | This page's more colorful sibling |
+| 🐛 | [bug-hunting-kit](https://github.com/SuellenQwQ/bug-hunting-kit) | A stdlib-only CLI issue filer + 11 bug patterns from real hunts |
+| 🎲 | [galgame-picker](https://github.com/SuellenQwQ/galgame-picker) | Random galgame picker with tag filtering |
+| 🌐 | [SuellenQwQ.github.io](https://suellenqwq.github.io) | My personal homepage |
 
 ## 🏆 Selected Bug Hunts
 
-> Real issues filed in real projects — every one with a minimal repro or line-level proof.
+> Every issue below has a minimal repro or a line-level proof.
 > Full list: 22 repos, 1 PR + 21 issues.
 
 | | Project | What I found |
@@ -107,8 +105,6 @@ and filing issues maintainers actually merge.
 </div>
 
 <div align="center">
-
-<i>"The best way to learn a codebase is to break it in public, politely."</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:5BCEFA,50:F5A9B8,100:F5A9B8" alt="footer" />
 
