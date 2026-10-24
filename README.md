@@ -69,6 +69,28 @@ and filing issues maintainers actually merge.
 | 🎲 | [galgame-picker](https://github.com/SuellenQwQ/galgame-picker) | Tiny CLI that settles the hardest engineering question: which galgame to read next |
 | 🌐 | [SuellenQwQ.github.io](https://suellenqwq.github.io) | This page's more colorful sibling |
 
+## 🏆 Selected Bug Hunts
+
+> Real issues filed in real projects — every one with a minimal repro or line-level proof.
+> Full list: 22 repos, 1 PR + 21 issues.
+
+| | Project | What I found |
+|---|---|---|
+| 🔥 | [sealdice-core](https://github.com/sealdice/sealdice-core/issues/1864) | D&D hp silently clamped to **0** on any heal when `hpmax` unset — one branch in a function checked existence, its sibling forgot |
+| 🔤 | [translate-toolkit](https://github.com/translate/translate/issues/6631) | `zh.puncdict` ate the newline after `?` — 3-line Chinese translations silently merged into 2 |
+| 🌐 | [OlivOS](https://github.com/OlivOS-Team/OlivOS/issues/226) | `lstrip("http://")` strips a *character set*, not a prefix — proxy hostnames starting with h/t/p/s got eaten (`proxy.` → `roxy.`) |
+| 🎲 | [maimaidx](https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx/issues/93) | DX star thresholds off-by-one at all 5 boundaries — exactly-at-threshold scores displayed one star less than the game |
+| 📬 | [ELF_RSS](https://github.com/Quan666/ELF_RSS/issues/641) | When a push count is an exact multiple of the batch size, the flush step never runs — DB connections leak, cache grows forever |
+| 🔇 | [nonebot_plugin_admin](https://github.com/yzyyz1387/nonebot_plugin_admin/issues/151) | Random ban duration `[0, 300]` can roll **0** — which the OneBot protocol defines as *unban* |
+
+## 🗺️ Roadmap
+
+| | Milestone |
+|---|---|
+| 📍 **Now** | NCUK Foundation · one open-source codebase read & one verified issue filed per day |
+| 👉 **Next** | 🇦🇺 **UNSW** — Computer Science |
+| 🎯 **Then** | SWE internship · merged PRs in projects I actually use |
+
 ## 📊 Analytics
 
 <div align="center">
