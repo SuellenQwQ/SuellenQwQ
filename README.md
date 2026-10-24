@@ -1,28 +1,29 @@
 <div align="center">
 
-# Suellen
-
-**Software Engineer · Python · Open Source** · she/her 🏳️‍⚧️
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:5BCEFA,50:F5A9B8,100:ffffff&text=Suellen&fontSize=52&fontColor=2b2b2b&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Python%20%C2%B7%20Open%20Source%20%C2%B7%20she%2Fher%20%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F&descAlignY=56&descSize=17" alt="banner" />
 
 [![pronouns](https://img.shields.io/badge/pronouns-she%2Fher-F5A9B8?style=flat-square)](#)
 [![NCUK → UNSW](https://img.shields.io/badge/NCUK_%E2%86%92_UNSW-Foundation_Year-5BCEFA?style=flat-square)](#)
+[![bug hunter](https://img.shields.io/badge/bug_hunter-22_repos%20%C2%B7%201_PR%20%2B%2021_issues-DC2626?style=flat-square)](#)
 [![open to internships](https://img.shields.io/badge/open_to-SWE_internships-181717?style=flat-square)](#)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5BCEFA,50:F5A9B8,100:5BCEFA&height=3" width="100%" />
+## 🧑‍💻 `$ whoami`
 
-## `$ whoami`
-
-Foundation-year student on my way to **UNSW (Australia)**, building real engineering skills
-the uncomfortable way: **reading production code every single day until I understand it —
-and filing issues maintainers actually merge.**
+```bash
+$ whoami
+Suellen — foundation-year student on my way to UNSW (Australia),
+building real engineering skills the uncomfortable way:
+reading production code every single day until I understand it —
+and filing issues maintainers actually merge.
+```
 
 - 🔭 I'm currently working on **[bug-hunting-kit](https://github.com/SuellenQwQ/bug-hunting-kit)** — a CLI toolkit + methodology distilled from 22 real bug hunts
 - 🌱 I'm currently learning **Python internals, testing patterns, and how large OSS projects are maintained**
 - 💬 Ask me about **filing high-signal bug reports, the NoneBot/QQ-bot ecosystem, or Galgame**
 - 📫 How to reach me: open an issue — I respond faster to those than to anything else
-- ⚡ Fun fact: **22 real bugs found across 22 open-source repos** (1 PR + 21 issues), each with a minimal repro and a one-line fix
+- ⚡ Fun fact: **22 real bugs found across 22 open-source repos**, each with a minimal repro and a one-line fix
 
 ## 🧰 Tech Stack
 
@@ -62,11 +63,11 @@ and filing issues maintainers actually merge.**
 
 ## 📂 Projects
 
-| Repo | What it is |
-|---|---|
-| [bug-hunting-kit](https://github.com/SuellenQwQ/bug-hunting-kit) | CLI issue filer (stdlib-only) + 11 battle-tested bug patterns from my daily OSS bug hunt |
-| [galgame-picker](https://github.com/SuellenQwQ/galgame-picker) | Tiny CLI that settles the hardest engineering question: which galgame to read next |
-| [SuellenQwQ.github.io](https://suellenqwq.github.io) | This page's more colorful sibling |
+| | Repo | What it is |
+|---|---|---|
+| 🐛 | [bug-hunting-kit](https://github.com/SuellenQwQ/bug-hunting-kit) | CLI issue filer (stdlib-only) + 11 battle-tested bug patterns from my daily OSS bug hunt |
+| 🎲 | [galgame-picker](https://github.com/SuellenQwQ/galgame-picker) | Tiny CLI that settles the hardest engineering question: which galgame to read next |
+| 🌐 | [SuellenQwQ.github.io](https://suellenqwq.github.io) | This page's more colorful sibling |
 
 ## 📊 Analytics
 
@@ -84,5 +85,9 @@ and filing issues maintainers actually merge.**
 </div>
 
 <div align="center">
+
 <i>"The best way to learn a codebase is to break it in public, politely."</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:5BCEFA,50:F5A9B8,100:F5A9B8" alt="footer" />
+
 </div>
