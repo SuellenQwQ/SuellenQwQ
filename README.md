@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:5BCEFA,50:F5A9B8,100:ffffff&text=Suellen&fontSize=52&fontColor=2b2b2b&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Python%20%C2%B7%20Open%20Source%20%C2%B7%20she%2Fher%20%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F&descAlignY=56&descSize=17" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:5BCEFA,50:F5A9B8,100:ffffff&text=Suellen&fontSize=52&fontColor=2b2b2b&fontAlignY=36&desc=Python%20%C2%B7%20Open%20Source%20%C2%B7%20she%2Fher%20%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F&descAlignY=56&descSize=17" alt="banner" />
 
 [![pronouns](https://img.shields.io/badge/pronouns-she%2Fher-F5A9B8?style=flat-square)](#)
 [![NCUK → UNSW](https://img.shields.io/badge/NCUK_%E2%86%92_UNSW-Foundation_Year-5BCEFA?style=flat-square)](#)
