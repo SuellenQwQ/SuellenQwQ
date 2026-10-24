@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F7B93E&center=true&vCenter=true&random=false&width=680&lines=Hi%20there%20%F0%9F%91%8B%20I%27m%20Suellen%3BNCUK%20%E9%A2%84%E7%A7%91%E5%9C%A8%E8%AF%BB%20%C2%B7%20%E6%9C%AA%E6%9D%A5%20CS%20%E4%BA%BA%3B%E6%AF%" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=F7B93E&center=true&vCenter=true&random=false&width=680&lines=Hi%20there%20%F0%9F%91%8B%20I%27m%20Suellen%3BNCUK%20%E9%A2%84%E7%A7%91%E5%9C%A8%E8%AF%BB%20%C2%B7%20%E6%9C%AA%E6%9D%A5%20CS%20%E4%BA%BA" alt="typing" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### 👋 关于我
 
-- 🎓 **Suellen** · NCUK 预科在读，即将奔赴英伦读本科
+- 🎓 **Suellen** · NCUK 预科在读，即将前往 🇦🇺 澳洲，入读 **UNSW**（新南威尔士大学）
 - 🐍 在用「每天通读一个开源项目、提交一个高质量 issue」的方式自学 **Python**
 - 🤖 折腾 QQ 机器人 / NoneBot 插件生态
 - 🌏 中文 · English
