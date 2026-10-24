@@ -1,23 +1,18 @@
 <div align="center">
 
-# Hi, I'm Suellen 👋
-
-**NCUK 在读** · 🏳️‍⚧️ **MtF** 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:5BCEFA,50:F5A9B8,100:F5A9B8&text=Hi%2C%20I%27m%20Suellen&fontSize=46&fontColor=ffffff&fontAlignY=34&desc=NCUK%20Foundation%20%C2%B7%20%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F%20MtF%20%C2%B7%20she%2Fher&descAlignY=58&descSize=19" alt="banner" />
 
 </div>
 
----
+### 👋 About Me
 
-### 👋 关于我
-
-- 🏳️‍⚧️ MtF  · she/her
-- 🎓 **Suellen** · NCUK 预科在读，即将前往 🇦🇺 澳洲，希望入读 **UNSW**
-- 🐍 在用「每天通读一个开源项目、提交一个高质量 issue」的方式自学 **Python**
-- 🤖 折腾 QQ 机器人 / NoneBot 插件生态
-- 🌏 中文 · English
+- 🏳️‍⚧️ Trans girl (**MtF**) — she/her
+- 🎓 **Suellen** · NCUK Foundation student, heading to **UNSW**, Australia 🇦🇺
+- 🐍 Learning **Python** by reading one open-source project & filing one verified issue every day
+- 🤖 Tinkering with QQ bots & the **NoneBot** plugin ecosystem
 - 🎮 Galgame
 
-### 🛠️ 工具箱
+### 🛠️ Toolbox
 
 <div align="center">
 
@@ -29,22 +24,36 @@
 
 </div>
 
-### 📊 GitHub 统计
+### 📊 GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SuellenQwQ&show_icons=true&theme=tokyonight&include_all_commits=true" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenQwQ&layout=compact&theme=tokyonight" alt="langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SuellenQwQ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenQwQ&layout=compact&theme=tokyonight&langs_count=8" alt="langs" />
 </div>
 
 <div align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=SuellenQwQ&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="streak" />
 </div>
 
-### 📌 里程碑
-
-- 🔍 在 **22 个开源仓库**里找到过真实 bug —— 1 个 PR + 21 个 issue，每个都带最小复现与修复建议
-- 🎯 下一步：把提过的 issue 修成 PR
+<div align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SuellenQwQ&theme=react-dark&hide_border=true&area=true" alt="activity" />
+</div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=SuellenQwQ&style=for-the-badge&color=blueviolet" alt="views" />
+<img src="https://github-profile-trophy.vercel.app/?username=SuellenQwQ&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=6" alt="trophy" />
+</div>
+
+### 📌 Milestones
+
+- 🔍 Found real bugs in **22 open-source repos** — 1 PR + 21 issues, each with a minimal repro & fix suggestion
+- 🎯 Next: turn my filed issues into merged PRs
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SuellenQwQ&style=for-the-badge&color=F5A9B8" alt="views" />
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:F5A9B8,50:5BCEFA,100:5BCEFA" alt="footer" />
+
 </div>
