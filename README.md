@@ -11,7 +11,7 @@
 ### 👋 关于我
 
 - 🏳️‍⚧️ MtF  · she/her
-- 🎓 **Suellen** · NCUK 预科在读，即将前往 🇦🇺 澳洲，入读 **UNSW**（新南威尔士大学）
+- 🎓 **Suellen** · NCUK 预科在读，即将前往 🇦🇺 澳洲，希望入读 **UNSW**
 - 🐍 在用「每天通读一个开源项目、提交一个高质量 issue」的方式自学 **Python**
 - 🤖 折腾 QQ 机器人 / NoneBot 插件生态
 - 🌏 中文 · English
