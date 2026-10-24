@@ -21,7 +21,6 @@ I read open-source code every day and file issues for the bugs I find.
 - 🌱 I'm currently learning **Python internals, testing patterns, and how large OSS projects are maintained**
 - 💬 Ask me about **writing useful bug reports, the NoneBot/QQ-bot ecosystem, or Galgame**
 - 📫 How to reach me: open an issue on one of my repos
-- ⚡ Fun fact: **22 real bugs found across 22 open-source repos**, each with a minimal repro and a one-line fix
 
 ## 🧰 Tech Stack
 
