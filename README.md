@@ -4,7 +4,7 @@
 
 [![pronouns](https://img.shields.io/badge/pronouns-she%2Fher-F5A9B8?style=flat-square)](#)
 [![NCUK → UNSW](https://img.shields.io/badge/NCUK_%E2%86%92_UNSW-Foundation_Year-5BCEFA?style=flat-square)](#)
-[![bug hunter](https://img.shields.io/badge/bug_hunter-22_repos%20%C2%B7%201_PR%20%2B%2021_issues-DC2626?style=flat-square)](#)
+[![bug hunter](https://img.shields.io/badge/bug_hunter-22_bugs_found%20%C2%B7%20first_PR_merged-DC2626?style=flat-square)](#)
 [![open to internships](https://img.shields.io/badge/open_to-SWE_internships-181717?style=flat-square)](#)
 
 </div>
@@ -17,7 +17,7 @@ Suellen — NCUK foundation student, heading to UNSW (Australia).
 I read open-source code every day and file issues for the bugs I find.
 ```
 
-- 🔭 I'm currently working on **[bug-hunting-kit](https://github.com/SuellenQwQ/bug-hunting-kit)** — a CLI toolkit and the bug patterns I've collected from 22 real hunts
+- 🔭 I'm currently working on **[bug-hunting-kit](https://github.com/SuellenQwQ/bug-hunting-kit)** — a CLI toolkit and the bug patterns I've collected from 22 real hunts. My first security fix was just merged upstream
 - 🌱 I'm currently learning **Python internals, testing patterns, and how large OSS projects are maintained**
 - 💬 Ask me about **writing useful bug reports, the NoneBot/QQ-bot ecosystem, or Galgame**
 - 📫 How to reach me: open an issue on one of my repos
@@ -69,7 +69,7 @@ I read open-source code every day and file issues for the bugs I find.
 ## 🏆 Selected Bug Hunts
 
 > Every issue below has a minimal repro or a line-level proof.
-> Full list: 22 repos, 1 PR + 21 issues.
+> Full list: 22 repos, 21 issues. My first PR — a path traversal fix with 16 tests — was merged upstream ([#45](https://github.com/Cvandia/nonebot-plugin-whateat-pic/pull/45)).
 
 | | Project | What I found |
 |---|---|---|
@@ -86,7 +86,7 @@ I read open-source code every day and file issues for the bugs I find.
 |---|---|
 | 📍 **Now** | NCUK Foundation · one open-source codebase read & one verified issue filed per day |
 | 👉 **Next** | 🇦🇺 **UNSW** — Computer Science |
-| 🎯 **Then** | SWE internship · merged PRs in projects I actually use |
+| 🎯 **Then** | SWE internship · keep upstreaming fixes (first one landed ✓) |
 
 ## 📊 Analytics
 
