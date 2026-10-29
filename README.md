@@ -4,7 +4,7 @@
 
 [![pronouns](https://img.shields.io/badge/pronouns-she%2Fher-F5A9B8?style=flat-square)](#)
 [![NCUK → UNSW](https://img.shields.io/badge/NCUK_%E2%86%92_UNSW-Foundation_Year-5BCEFA?style=flat-square)](#)
-[![bug hunter](https://img.shields.io/badge/bug_hunter-22_bugs_found%20%C2%B7%20first_PR_merged-DC2626?style=flat-square)](#)
+[![bug hunter](https://img.shields.io/badge/bug_hunter-25_bugs_found%20%C2%B7%202_PRs%20%281_merged%29-DC2626?style=flat-square)](#)
 [![open to internships](https://img.shields.io/badge/open_to-SWE_internships-181717?style=flat-square)](#)
 
 </div>
@@ -79,6 +79,8 @@ I read open-source code every day and file issues for the bugs I find.
 | 🎲 | [maimaidx](https://github.com/Yuri-YuzuChaN/nonebot-plugin-maimaidx/issues/93) | DX star thresholds off-by-one at all 5 boundaries — exactly-at-threshold scores displayed one star less than the game |
 | 📬 | [ELF_RSS](https://github.com/Quan666/ELF_RSS/issues/641) | When a push count is an exact multiple of the batch size, the flush step never runs — DB connections leak, cache grows forever |
 | 🔇 | [nonebot_plugin_admin](https://github.com/yzyyz1387/nonebot_plugin_admin/issues/151) | Random ban duration `[0, 300]` can roll **0** — which the OneBot protocol defines as *unban* |
+| 🎲 | [sealdice-core](https://github.com/sealdice/sealdice-core/issues/1868) | A negative weight in a name-rule column wrapped through `uint()` — that name won ≈100% of draws |
+| 🧠 | [nonebot2](https://github.com/nonebot/nonebot2/issues/4236) | An aware `expire_time` crashed `_check_matcher` on every event, and the session never expired |
 
 ## 🗺️ Roadmap
 
