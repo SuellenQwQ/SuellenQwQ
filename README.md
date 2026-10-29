@@ -17,7 +17,7 @@ Suellen — NCUK foundation student, heading to UNSW (Australia).
 I read open-source code every day and file issues for the bugs I find.
 ```
 
-- 🔭 I'm currently working on **[bug-hunting-kit](https://github.com/SuellenQwQ/bug-hunting-kit)** — a CLI toolkit and the bug patterns I've collected from 22 real hunts. My first security fix was just merged upstream
+- 🔭 I'm 18-year-old student who's had it rough
 - 🌱 I'm currently learning **Python internals, testing patterns, and how large OSS projects are maintained**
 - 💬 Ask me about **writing useful bug reports, the NoneBot/QQ-bot ecosystem, or Galgame**
 - 📫 How to reach me: open an issue on one of my repos
